@@ -1,4 +1,4 @@
-# MultiTenantEF6Migrator
+# MultiTenantEFCoreMigrator
 An example ```net5.0``` console application that executes pending Entity Framework Core (EF Core) migrations to configured tenant databases.
 
 ## Remarks
