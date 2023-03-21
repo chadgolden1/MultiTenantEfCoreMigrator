@@ -1,8 +1,7 @@
-﻿namespace Data
+﻿namespace Data;
+
+public class User
 {
-    public class User
-    {
-        public int UserId { get; set; }
-        public string UserName { get; set; }
-    }
+    public int UserId { get; set; }
+    public string UserName { get; set; }
 }
